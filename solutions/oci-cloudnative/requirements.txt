@@ -3,5 +3,5 @@ oci
 oci-cli
 ansible-lint
 netaddr
-pyOpenSSL==18.0.0
+pyOpenSSL==26.0.0
 PyYAML==5.4
